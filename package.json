@@ -11,7 +11,7 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   },
-  "homepage": "https://sha9506.github.io/InSmarts",
+  "homepage": "https://Riyuzaaki.github.io/insmarts-testing",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
