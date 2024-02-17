@@ -11,7 +11,6 @@ const Title = () => {
       <div className="title">
         <div className="title-head">
           <div className="title-head-item">
-            {" "}
             Cut through the news noise in seconds
           </div>
         </div>
